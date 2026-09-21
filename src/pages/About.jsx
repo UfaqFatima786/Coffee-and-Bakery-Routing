@@ -162,7 +162,7 @@ const About = () => {
 
             <div className="relative overflow-hidden rounded-[2rem] shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1554118811-1e0d58224f31?auto=format&fit=crop&w=1000&q=80"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmMqkmnLEZTK8bQ9XAfvUqR834bCGnAig5wtwbeVl_xA&s=10"
                 alt="Cozy cafe interior"
                 className="h-[430px] w-full object-cover"
               />
